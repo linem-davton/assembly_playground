@@ -3,7 +3,7 @@ SRC_DIR = src
 BUILD_DIR = build
  
 
-TARGETS = exit_ helloworld echo_stdin
+TARGETS = exit_ helloworld echo_stdin numbers 
 
 
 
